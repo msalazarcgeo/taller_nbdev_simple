@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "taller_nbdev_simple",
+    "section": "",
+    "text": "Apartir de este notebook se genera el README del repositorio y tambien el indice de la documentación.",
+    "crumbs": [
+      "taller_nbdev_simple"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "taller_nbdev_simple",
+    "section": "How to use",
+    "text": "How to use\nEss un simple ejemplo de como se usan las celdas de código\n\nprint('Hola Mundo')",
+    "crumbs": [
+      "taller_nbdev_simple"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo (var_boo)\n\nEsta funcion muestra si la variable es verdadera o falsa\nVeamos como funciona\n\nfoo(True)\n\nEs verdadera\n\n\n\nfoo(False)\n\nEs falsa\n\n\n\nsource\n\n\nsaludo\n\n saludo ()\n\nImprime Hola\n\nsaludo()\n\nHola!\n\n\n\nsaludo_a(\"Miguel\")\n\nHola! Miguel\nEspero que te encuentres bien\n\n\n\nsaludo_a(\"Mary\")\n\nHola! Mary\nEspero que te encuentres bien\n\n\n\nsource\n\n\nsaludo_a\n\n saludo_a (to)\n\nImprime hola a un nombre\n\nsource\n\n\nconcatena_saludos\n\n concatena_saludos (nombre='')\n\nEs una función que concatena las dos funciones\n\nconcatena_saludos(\"Paquita\")\n\nHola!\nHola! Paquita\nEspero que te encuentres bien",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
